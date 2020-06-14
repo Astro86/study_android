@@ -1,5 +1,9 @@
 # 안드로이드 공부
 
+## Indent
+
+## Inflate
+
 ## Fragment 생명 주기
 ![](images/fragment_lifecycle.png)
 
